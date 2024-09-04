@@ -1,3 +1,8 @@
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<!-- GIF HEADER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+
 <h1 align="center">Hola 👋, Soy Pablo</h1>
 <h3 align="center">🌟.</h3>
 
