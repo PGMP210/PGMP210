@@ -38,7 +38,7 @@
 <h3 align="left">🛠️ My Skills</h3>
 <br>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-  ### 👉 Programming languages
+<h2 align="left">👉 Programming languages </h2>
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
       alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
