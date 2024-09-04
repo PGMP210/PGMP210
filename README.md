@@ -50,7 +50,7 @@
  ### 👉 Software & Tools
 <p>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode"/>
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,arduino"/>
   </a>
 </p>
 
