@@ -36,7 +36,7 @@
 ### 👉 Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i="firebase,mongodb,mongodb/>
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mongodb"/>
   </a>
  </p>
   
