@@ -22,7 +22,7 @@
 <div style="display: flex; align-items: flex-start;">
   <!-- Columna para Imágenes -->
   <div style="flex: 1; text-align: center;">
-    <img src="https://via.placeholder.com/300" alt="Imagen 1" style="width: 100%; margin-bottom: 20px;">
+    <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
     <img src="https://via.placeholder.com/300" alt="Imagen 2" style="width: 100%;">
   </div>
   
@@ -32,22 +32,18 @@
     <p>
       <img src="https://skillicons.dev/icons?i=cpp,java,js,py,kotlin" />
     </p>
-
     <h3>👉 Desarrollo Frontend</h3>
     <p> 
       <img src="https://skillicons.dev/icons?i=html,css,vite,androidstudio"/>
     </p>
-
     <h3>👉 Bases de Datos</h3>
     <p>
       <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql"/>
     </p>
-
     <h3>👉 Diseño Gráfico</h3>
     <p>  
       <img src="https://skillicons.dev/icons?i=figma,canva"/>
     </p>
-
     <h3>👉 Software y Herramientas</h3>
     <p>
       <img src="https://skillicons.dev/icons?i=vscode,androidstudio,arduino"/>
