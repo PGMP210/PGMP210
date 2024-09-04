@@ -1,14 +1,12 @@
-<!-- LÍNEA ARCOÍRIS SUPERIOR -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 <!-- GIF DE CABECERA -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif" width="100%">
 
 <h1 align="center">Hola, Soy Pablo Minguela <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+en+Software;Full+Stack+Movil;DS%20|%20AI%20|%20ML%20Entusiasta;Diseñador%20Gráfico;Siempre%20aprendiendo%20cosas%20nuevas&center=true&width=500&height=50">
 </p>
 <hr/>
+
 <h4 style="text-align: center;">Estudiante de 9º cuatrimestre de la carrera de Ingeniería en Software, con conocimientos básicos en programación web, sistemas, desarrollo de videojuegos, programación móvil, entre otros. Con disposición para seguir aprendiendo y trabajando.</h4>
 <br>
 
@@ -19,10 +17,10 @@
 
 ## 🛠️ Mis Habilidades
 
-<div style="display:flex;align-items:center;flex-direction: row;">
+<div style="display:flex;align-items:center;flex-direction: row;justify-content: center;">
   <div style="flex: 1; text-align: center;">
-    <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" alt="Imagen 1" style="width: 100%;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="width:100%;">
+    <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" alt="Imagen 1" style="width: 100%; max-width: 250px;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="width:100%; max-width: 250px;">
   </div>
   <div style="flex: 2; margin-left: 20px;">
     <h3>👉 Lenguajes de Programación</h3>
@@ -83,8 +81,7 @@
 <hr/>
 
 <!-- GIF DE PIE DE PÁGINA -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
-
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif" width="100%">
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
