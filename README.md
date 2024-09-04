@@ -46,7 +46,8 @@
     <img src="https://skillicons.dev/icons?i=figma,can"/>
   </a>
  </p>
-### 👉 Software & Tools
+ 
+ ### 👉 Software & Tools
 <p>
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode"/>
