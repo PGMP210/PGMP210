@@ -1,99 +1,97 @@
-<!-- RAINBOW LINE TOP -->
+<!-- LÍNEA ARCOÍRIS SUPERIOR -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<!-- GIF HEADER -->
+<!-- GIF DE CABECERA -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
-<h1 align="center">Hola ,Soy Pablo Minguela  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+en+Software;Full+Stack+Movil;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+<h1 style="text-align: center;">Hola, Soy Pablo Minguela <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p style="text-align: center;">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+en+Software;Full+Stack+Movil;DS%20|%20AI%20|%20ML%20Entusiasta;Diseñador%20Gráfico;Siempre%20aprendiendo%20cosas%20nuevas&center=true&width=500&height=50">
 </p>
 <hr/>
-<h4 align="center">Estudiante de 9º cuatrimestre de la carrera de Ingenería en software, con conocimientos básicos en programacion web , sistema, desarrollar videojuegos, programacion movil, entre otros. Con disposición por seguir aprendiendo y trabajar.</h4>
+<h4 style="text-align: center;">Estudiante de 9º cuatrimestre de la carrera de Ingeniería en Software, con conocimientos básicos en programación web, sistemas, desarrollo de videojuegos, programación móvil, entre otros. Con disposición para seguir aprendiendo y trabajando.</h4>
 <br>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
-
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="left"> 
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,js,py,kotlin" />
-  </a>
+## 🔥 Estadísticas de Rachas
+<p style="text-align: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18" />
 </p>
 
-### 👉 Frontend Development
-<p align="left"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,vite,androidstudio"/>
-  </a>
-</p>
+## 🛠️ Mis Habilidades
 
-### 👉 Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql"/>
-  </a>
- </p>
+<div style="display: flex; align-items: flex-start;">
+  <!-- Columna para Imágenes -->
+  <div style="flex: 1; text-align: center;">
+    <img src="https://via.placeholder.com/300" alt="Imagen 1" style="width: 100%; margin-bottom: 20px;">
+    <img src="https://via.placeholder.com/300" alt="Imagen 2" style="width: 100%;">
+  </div>
   
-### 👉Graphic Designing
-<p align="left">  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,can"/>
-  </a>
- </p>
- 
- ### 👉 Software & Tools
-<p>
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,arduino"/>
-  </a>
-</p>
+  <!-- Columna para Contenido de Habilidades -->
+  <div style="flex: 2; margin-left: 20px;">
+    <h3>👉 Lenguajes de Programación</h3>
+    <p>
+      <img src="https://skillicons.dev/icons?i=cpp,java,js,py,kotlin" />
+    </p>
+
+    <h3>👉 Desarrollo Frontend</h3>
+    <p> 
+      <img src="https://skillicons.dev/icons?i=html,css,vite,androidstudio"/>
+    </p>
+
+    <h3>👉 Bases de Datos</h3>
+    <p>
+      <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql"/>
+    </p>
+
+    <h3>👉 Diseño Gráfico</h3>
+    <p>  
+      <img src="https://skillicons.dev/icons?i=figma,canva"/>
+    </p>
+
+    <h3>👉 Software y Herramientas</h3>
+    <p>
+      <img src="https://skillicons.dev/icons?i=vscode,androidstudio,arduino"/>
+    </p>
+  </div>
+</div>
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
-
+## 📊 Estadísticas de GitHub (Expandir para Ver) 
 
 <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b>💻 Estadísticas del Perfil de GitHub</b></summary>
   <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <p style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+    <br/>
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" height="192px"/>
+    <br/>
+    <b>Nota:</b> Los lenguajes más utilizados son solo una métrica de los lenguajes que componen mi código público y no reflejan el nivel de experiencia o habilidad.
   </p>
 </details>
 
-
 <details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <summary><b>⚡ Actividad Reciente en GitHub</b></summary>
   <br/>
-   <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+  <img src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Gráfico%20de%20Contribución%20de%20Candida%20Noronha&theme=react-dark"/>
   <br/>
-
 </details>
 
 <br/>
 
-## 🙋‍♀️ Let's Connect
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=instagram,linkedin,twitter,gmail,github,discord"/>
-  </a>	
+## 🙋‍♀️ Conectemos
+
+<p style="text-align: center;">
+  <img src="https://skillicons.dev/icons?i=instagram,linkedin,twitter,gmail,github,discord"/>
 </p>
 
 <hr/>
 
-<!-- GIF FOOTER -->
+<!-- GIF DE PIE DE PÁGINA -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
