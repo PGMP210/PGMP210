@@ -20,13 +20,10 @@
 ## 🛠️ Mis Habilidades
 
 <div style="display: flex;align-items: center;flex-direction: row;">
-  <!-- Columna para Imágenes -->
   <div style="flex: 1; text-align: center;">
-    <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" alt="Imagen 1" style="width: 50%; margin-bottom: 20px; display: block; margin: 0 auto;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Imagen 2" style="width: 50%; display: block; margin: 0 auto;">
+    <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" alt="Imagen 1" style="width: 50%;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 50%;">
   </div>
-  
-  <!-- Columna para Contenido de Habilidades -->
   <div style="flex: 2; margin-left: 20px;">
     <h3>👉 Lenguajes de Programación</h3>
     <p>
