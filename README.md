@@ -4,8 +4,8 @@
 <!-- GIF DE CABECERA -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
-<h1 style="text-align: center;">Hola, Soy Pablo Minguela <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p style="text-align: center;">
+<h1 align="center">Hola, Soy Pablo Minguela <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+en+Software;Full+Stack+Movil;DS%20|%20AI%20|%20ML%20Entusiasta;Diseñador%20Gráfico;Siempre%20aprendiendo%20cosas%20nuevas&center=true&width=500&height=50">
 </p>
 <hr/>
