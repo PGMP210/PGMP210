@@ -18,7 +18,7 @@
 ## 🛠️ Mis Habilidades
 
 <div >
-  <div align="right" top="100" height="200" width="200" alt="GIF">
+  <div align="right" top="100" height="100" width="000">
     <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
   </div>
