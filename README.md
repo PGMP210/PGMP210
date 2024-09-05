@@ -19,7 +19,6 @@
 
 <div >
   <div align="right">
-    <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" top="500" height="400" width="300">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"top="500" height="400" width="300" >
   </div>
   <div>
